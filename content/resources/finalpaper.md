@@ -5,6 +5,7 @@ description: The resource provides information about the draft and final papers 
   topic.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/d4f60ee03f439e05d21a9209873cf845_finalpaper.pdf
 file_type: application/pdf
+parent_uid: 9455b7e9-1fe5-b424-b585-f941d503e038
 resourcetype: Document
 title: finalpaper.pdf
 uid: d4f60ee0-3f43-9e05-d21a-9209873cf845
